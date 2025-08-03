@@ -118,9 +118,4 @@ This project is open-source and free to use for personal or educational purposes
 **Vasant Kumar Sharma**
 🔗 [GitHub](https://github.com/sharmavasant)
 
-```
 
----
-
-Let me know if you also want a `.gitignore` to avoid committing downloaded files or the `.env` file.
-```
