@@ -1,10 +1,3 @@
-Sure! Here's your complete `README.md` content, ready to copy and paste into a single file:
-
----
-
-### 📄 `README.md`
-
-````markdown
 # 🎵 Telegram Music Bot
 
 A Telegram bot that lets you play music directly by sending a `/play <song name>` command. It uses the YouTube Data API to search for songs and `yt-dlp` to download and extract the audio.
